@@ -4,7 +4,7 @@ A compact USB-C Power Delivery power supply that outputs **5V, 9V, 12V, 20V and 
 
 ## Demo Video
 
-[![Demo Video](docs/3d-view.png)](YOUR_VIDEO_LINK_HERE)
+  [![Demo Video](docs/3d-view.png)][https://youtu.be/Hs4IFvJVBb]
 
 > Click the image to watch the demo.
 
